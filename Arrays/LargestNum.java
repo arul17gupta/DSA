@@ -1,5 +1,4 @@
 import java.util.*;
-import java.util.concurrent.CountDownLatch;
 
 public class LargestNum {
     public static void GetLargest(int num[]) {
